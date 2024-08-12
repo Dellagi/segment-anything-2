@@ -24,7 +24,7 @@ with open("README.md", "r") as f:
 # Required dependencies
 REQUIRED_PACKAGES = [
     "torch>=2.2.2",
-    "torchvision>=0.17.2",
+    "torchvision>=0.17.0",
     "numpy>=1.24.4",
     "tqdm>=4.66.1",
     "hydra-core>=1.3.2",
